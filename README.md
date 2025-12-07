@@ -14,3 +14,13 @@ Features:
     Custom LODs (proxies)  
     Custom scanner data  
     Functional burnt-out exterior variant, with working hood and trunk interactions
+    
+Compatibility:
+
+    Compatible with game versions 1.5+ up to the latest version
+
+Installation:
+
+    Automatic installation
+
+   DOWNLOAD: Cyberpunk-2077-Toyota-Mark-2-Tourer-MOD.ZIP
